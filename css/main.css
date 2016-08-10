@@ -28,3 +28,8 @@ main .row {
 .blue {
   background-color: blue;
 }
+
+.col-4{
+  width: 33%;
+  float: left;
+}
